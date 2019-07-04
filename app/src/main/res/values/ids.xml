@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="namapelanggan" type="id">namapelanggan :</item>
+    <item name="namabarang" type="id">namabarang :</item>
+    <item name="jumlahbeli" type="id">jumlahbeli :</item>
+    <item name="harga" type="id">harga :</item>
+    <item name="uangbayar" type="id">uangbayar :</item>
+    <item name="tombol1" type="id">proses</item>
+    <item name="tombol2" type="id">reset</item>
+    <item name="tombol3" type="id">keluar</item>
+    <item name="totalbelanja" type="id">totalbelanja :</item>
+    <item name="uangkembali" type="id">uangkembali :</item>
+    <item name="keterangan" type="id">keterangan :</item>
+</resources>
